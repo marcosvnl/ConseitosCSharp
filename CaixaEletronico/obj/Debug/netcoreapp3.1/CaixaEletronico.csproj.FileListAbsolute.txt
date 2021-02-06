@@ -1,0 +1,13 @@
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp3.1\CaixaEletronico.csprojAssemblyReference.cache
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp3.1\CaixaEletronico.AssemblyInfoInputs.cache
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp3.1\CaixaEletronico.AssemblyInfo.cs
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp3.1\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp3.1\CaixaEletronico.exe
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp3.1\CaixaEletronico.deps.json
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp3.1\CaixaEletronico.runtimeconfig.json
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp3.1\CaixaEletronico.runtimeconfig.dev.json
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp3.1\CaixaEletronico.dll
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\bin\Debug\netcoreapp3.1\CaixaEletronico.pdb
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp3.1\CaixaEletronico.dll
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp3.1\CaixaEletronico.pdb
+C:\Programacao\CSharp\Cruso_Udemy\Curso C#.NET Udemy\Cap.5 Construtores, palavra this, sobrecarga, encapsulamento\CaixaEletronico\CaixaEletronico\obj\Debug\netcoreapp3.1\CaixaEletronico.genruntimeconfig.cache
